@@ -1,0 +1,12 @@
+outputs/
+.ipynb_checkpoints 
+.vscode/
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+instance
+.webassets-cache
+logs/
